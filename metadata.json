@@ -1,0 +1,6 @@
+{
+  "name": "ClipForge AI - Unlimited Free Clip Generator",
+  "description": "Paste any video link to generate thousands of viral short clips with auto-captions, re-framing, and virality scoring 100% free.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
